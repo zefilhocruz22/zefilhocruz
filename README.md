@@ -75,6 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zefilhocruz22/zefilhocruz22/output/snake.svg" alt="Snake animation" />
+
 
 ###
